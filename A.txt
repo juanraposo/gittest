@@ -4,8 +4,10 @@ zzzz
 1111
 2222
 
-Esto est� a�adido en branch 1
+Esto est? a?adido en branch 1
 
-Esto tambi�n est� a�adido en branch 1i
+Esto tambi?n est? a?adido en branch 1i
 
 ESTO está añadido en la branch remota
+
+Y esto en la tracked branch local
