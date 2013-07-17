@@ -11,3 +11,5 @@ Esto tambi?n est? a?adido en branch 1i
 ESTO está añadido en la branch remota
 
 Y esto en la tracked branch local
+
+ESTO también está añadido en la branch remota
