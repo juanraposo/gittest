@@ -4,6 +4,8 @@ zzzz
 1111
 2222
 
-Esto está añadido en branch 1
+Esto estï¿½ aï¿½adido en branch 1
 
-Esto también está añadido en branch 1
+Esto tambiï¿½n estï¿½ aï¿½adido en branch 1i
+
+ESTO estÃ¡ aÃ±adido en la branch remota
