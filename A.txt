@@ -1,10 +1,12 @@
+BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB
+
 xxxx
 yyyy
 zzzz
 1111
 2222
 
-Añadido en master
+Aï¿½adido en master
 
 Esto estï¿½ aï¿½adido en branch 1
 
@@ -12,8 +14,8 @@ Esto tambiï¿½n estï¿½ aï¿½adido en branch 1
 
 Esto estÃ¡ aÃ±adido en el master desde la web
 
-Esto es lo tercero que se añadide en la brnach 1
+Esto es lo tercero que se aï¿½adide en la brnach 1
 
-Esto es lo quinto que se añadide en la brnach 1
+Esto es lo quinto que se aï¿½adide en la brnach 1
 
-Esto es lo sexto que se añadide en la brnach 1
+Esto es lo sexto que se aï¿½adide en la brnach 1
