@@ -1,4 +1,1 @@
-abcdefg
-asdfg
-asdfghhh
-assdfffg
+Nuevo contenido del fichero B desde github
